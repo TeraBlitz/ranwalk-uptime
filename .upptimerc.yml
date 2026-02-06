@@ -5,6 +5,7 @@ repo: ranwalk-uptime # The name of this repository
 sites:
   - name: Ranwalk main
     url: https://app.ranwalk.com
+
 status-website:
   baseUrl: /ranwalk-uptime # where "repo" is your repository name
   name: is ranwalk up?
