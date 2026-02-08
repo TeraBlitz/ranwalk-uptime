@@ -6,6 +6,10 @@ sites:
   - name: Ranwalk main
     url: https://app.ranwalk.com
 
+sites:
+  - name: Ranwalk luna
+    url: https://luna.ranwalk.com/accounts/login/?next=/chart/deep-discount/
+    
 status-website:
   baseUrl: /ranwalk-uptime # where "repo" is your repository name
   name: is ranwalk up?
