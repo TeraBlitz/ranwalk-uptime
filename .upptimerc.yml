@@ -6,7 +6,6 @@ sites:
   - name: Ranwalk main
     url: https://app.ranwalk.com
 
-sites:
   - name: Luna
     url: https://luna.ranwalk.com/accounts/login/?next=/chart/deep-discount/
     
