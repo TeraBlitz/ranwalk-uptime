@@ -4,18 +4,19 @@
     "url": "https://app.ranwalk.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.ranwalk.com.ico",
     "slug": "ranwalk-main",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 238,
     "timeDay": 312,
     "timeWeek": 238,
     "timeMonth": 238,
     "timeYear": 238,
     "dailyMinutesDown": {
+      "2026-02-12": 0,
       "2026-02-06": 25
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://luna.ranwalk.com/accounts/login/?next=/chart/deep-discount/",
     "icon": "https://icons.duckduckgo.com/ip3/luna.ranwalk.com.ico",
     "slug": "luna",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +36,8 @@
     "timeWeek": 291,
     "timeMonth": 291,
     "timeYear": 291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-12": 0
+    }
   }
 ]
